@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m iOS developer, curently searching for a job.
+I’m iOS developer, currently actively engaging in this direction.
 
 How to contact me: send email to egor.rybin@lenta.ru
 
